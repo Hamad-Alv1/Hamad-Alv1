@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&random=false&width=600&lines=Building+beautiful+web+experiences;Full-Stack+Developer;Open+Source+Enthusiast)](https://git.io/typing-svg)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-alizaali.com-000000?style=flat-square&logo=safari&logoColor=white)](https://exprtai.us/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-hamadalvi.tech-000000?style=flat-square&logo=safari&logoColor=white)](https://www.hamadalvi.tech/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-004182?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hamdalvi)
 [![YouTube](https://img.shields.io/badge/YouTube-8B0000?style=for-the-badge&logo=youtube&logoColor=white)]()
 [![Instagram](https://img.shields.io/badge/Instagram-8B2252?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/hamad_alvii)
