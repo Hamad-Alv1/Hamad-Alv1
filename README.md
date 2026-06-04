@@ -6,9 +6,8 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-hamadalvi.tech-000000?style=flat-square&logo=safari&logoColor=white)](https://www.hamadalvi.tech/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-004182?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hamdalvi)
-[![YouTube](https://img.shields.io/badge/YouTube-8B0000?style=for-the-badge&logo=youtube&logoColor=white)]()
 [![Instagram](https://img.shields.io/badge/Instagram-8B2252?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/hamad_alvii)
-[![Facebook](https://img.shields.io/badge/Facebook-003366?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/hamadalvi)
+[![Facebook](https://img.shields.io/badge/Facebook-003366?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/hamad.alvi.578044/)
 [![Email](https://img.shields.io/badge/Email-B71C1C?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hamadalvi.dev@gmail.com)
 
 </div>
